@@ -1,6 +1,5 @@
 """
 Author: Leran Peng
-Student Number: 23909531
 Project Name: CITS1401 Project2
 """
 
